@@ -4,10 +4,7 @@ Jace Data Processing Service
 ### Курсова робота з курсу "Інженерія програмного забезпечення"
 
 
-### Тема курсової роботи: __"Підсистема документування в проекті jace-dps"__
+### Тема курсової роботи: "Підсистема документування в проекті jace-dps"
 
 ## Учасники
-__Орлова Юлія__
-* [Githab](https://github.com/Julia-Orlova)
-* [Telegram](https://t.me/j_ulia_orlov_a)
-* Gmail: julia.australia28@gmail.com
+* __Юлія Орлова__ ([GitHub](https://github.com/Julia-Orlova) | [Telegram](https://t.me/j_ulia_orlov_a) | Gmail: julia.australia28@gmail.com)
